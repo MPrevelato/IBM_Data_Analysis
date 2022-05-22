@@ -1,2 +1,2 @@
-# courses
- This repository has the notebooks/codes created in the programming courses I take
+# IBM Data Analysis
+ This repository has the notebook created in the IBM - Data Analysis course.

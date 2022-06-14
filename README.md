@@ -1,4 +1,4 @@
-# IBM Data Analysis
+# IBM - Data Analysis
  This repository has the final test notebook created in the IBM - Data Analysis course.
  - The objective of this test is to predict house prices, using the dataset: 
  **House Sales in King County, USA**
